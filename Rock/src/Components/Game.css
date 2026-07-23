@@ -1,0 +1,14 @@
+html,
+body {
+}
+body {
+}
+.container {
+  text-align: center;
+}
+.h1 {
+  color: aqua;
+  text-transform: uppercase;
+  font-size: 2rem;
+  margin-bottom: auto;
+}
